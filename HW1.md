@@ -18,9 +18,10 @@
 - **Written Report**  
   Prepare a short report summarizing your findings and reflections. You can use Markdown (`TuringTest.md`) or a PDF file.  
 - **Deadline**  
-  Upload your report to this repository by the end of the week (or any specific date set by your instructor).
+  Upload your report to this repository by the end of the week.
 
 ## Additional Notes
 
+- Exercises submitted after the deadline will not be graded.
 - Include references (articles, videos, books) at the end of your report, if applicable.
 - Try to keep your report concise while covering all key points.
